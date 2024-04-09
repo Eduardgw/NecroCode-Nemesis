@@ -1,0 +1,2 @@
+	Não, isso não é um vírus que irá destruir o computador completamente, é apenas um simples programinha que simula um roubo de dados. Não é capaz de criar nenhum problema à máquina do usuário, pois não faz nada de danoso.
+	Bem... a não ser que você ative o modo de administrador, fique tranquilo que nada de mal irá ocorrer.
